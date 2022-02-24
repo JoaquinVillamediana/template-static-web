@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: canada-type-gibson, sans-serif;
+}
+
+@media screen and (max-width: 992px) {
+}
